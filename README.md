@@ -19,7 +19,7 @@ Pretendo desenvolver a minha carreira em programação como Web Developer, com m
 
 
 ## 📫 Contactos
-Email: carlosmanoel1912@gmail.com  
+Email: carlosdev019@gmail.com  
 LinkedIn: www.linkedin.com/in/carlos-alves-b4a069343/?skipRedirect=true
 
 # 🇬🇧 👨‍💻 Carlos Alves — Management and Programming Student 🚀
@@ -43,8 +43,8 @@ I aim to develop my career in programming as a Web Developer, focusing mainly on
 My goal is to become a professional capable of turning ideas into functional and high-quality digital experiences, always paying attention to usability and design.
 
 ## 🇬🇧 📫 Contact
-Email: carlosmanoel1912@gmail.com  
+Email: carlosdev019@gmail.com  
 LinkedIn: www.linkedin.com/in/carlos-alves-b4a069343/?skipRedirect=true
 
-<h6>OFICINA, Escola Profissional &copy; 2025</h6>
+<h6>OFICINA, Escola Profissional &copy; 2026</h6>
 
