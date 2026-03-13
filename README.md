@@ -46,5 +46,5 @@ My goal is to become a professional capable of turning ideas into functional and
 Email: carlosdev019@gmail.com  
 LinkedIn: www.linkedin.com/in/carlos-alves-b4a069343/?skipRedirect=true
 
-<h6>OFICINA, Escola Profissional &copy; 2026</h6>
+<h6>Carlos Alves &copy; 2026</h6>
 
