@@ -1,0 +1,85 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Carlos — Desenvolvedor de Software</title>
+  <desc id="desc">Banner de perfil dark inspirado em tecnologia, com detalhes em roxo e cyan.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B12" />
+      <stop offset="0.52" stop-color="#0D111C" />
+      <stop offset="1" stop-color="#080B12" />
+    </linearGradient>
+    <linearGradient id="accent" x1="88" y1="88" x2="547" y2="267" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA" />
+      <stop offset="0.52" stop-color="#8B5CF6" />
+      <stop offset="1" stop-color="#22D3EE" />
+    </linearGradient>
+    <linearGradient id="line" x1="722" y1="50" x2="1104" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#8B5CF6" stop-opacity="0.75" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(966 106) rotate(145) scale(302 190)">
+      <stop stop-color="#7C3AED" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1077 302) rotate(-144) scale(226 130)">
+      <stop stop-color="#22D3EE" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#8B949E" stroke-opacity="0.08" />
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" />
+    </filter>
+    <clipPath id="rounded">
+      <rect width="1200" height="360" rx="28" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
+    <ellipse cx="966" cy="106" rx="302" ry="190" fill="url(#glowPurple)" />
+    <ellipse cx="1077" cy="302" rx="226" ry="130" fill="url(#glowCyan)" />
+
+    <path d="M690 51H1112" stroke="url(#line)" />
+    <path d="M750 309H1160" stroke="url(#line)" />
+
+    <circle cx="90" cy="74" r="4" fill="#22D3EE" />
+    <path d="M106 74H177" stroke="#30363D" />
+    <text x="190" y="80" fill="#8B949E" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="2">PERFIL / 01</text>
+
+    <text x="88" y="174" fill="url(#accent)" font-size="82" font-weight="750" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" letter-spacing="2">CARLOS</text>
+    <text x="92" y="220" fill="#E6EDF3" font-size="20" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="3.5">DESENVOLVEDOR DE SOFTWARE</text>
+
+    <rect x="90" y="250" width="272" height="38" rx="19" fill="#161B22" stroke="#30363D" />
+    <circle cx="113" cy="269" r="5" fill="#22D3EE" />
+    <text x="130" y="275" fill="#B9C2CC" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" letter-spacing="1">DESENVOLVEDOR EM FORMAÇÃO</text>
+
+    <g transform="translate(728 78)">
+      <rect width="388" height="204" rx="16" fill="#0D1117" fill-opacity="0.88" stroke="#30363D" />
+      <rect width="388" height="38" rx="16" fill="#161B22" />
+      <path d="M0 38H388" stroke="#30363D" />
+      <circle cx="22" cy="19" r="5" fill="#FF5F56" />
+      <circle cx="42" cy="19" r="5" fill="#FFBD2E" />
+      <circle cx="62" cy="19" r="5" fill="#27C93F" />
+      <text x="194" y="24" fill="#8B949E" font-size="12" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">carlos.dev</text>
+
+      <text x="26" y="76" fill="#8B5CF6" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$</text>
+      <text x="46" y="76" fill="#C9D1D9" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">perfil --mostrar</text>
+      <text x="26" y="105" fill="#22D3EE" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">desenvolvedor_software</text>
+
+      <text x="26" y="140" fill="#8B5CF6" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$</text>
+      <text x="46" y="140" fill="#C9D1D9" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">foco --atual</text>
+      <text x="26" y="169" fill="#8B949E" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">javascript / react / typescript</text>
+
+      <rect x="26" y="187" width="9" height="2" fill="#22D3EE" filter="url(#softGlow)" />
+      <rect x="26" y="187" width="9" height="2" fill="#22D3EE" />
+    </g>
+
+    <path d="M0 356H1200" stroke="url(#accent)" stroke-width="4" />
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#30363D" />
+</svg>
