@@ -6,17 +6,6 @@ Sou estudante de Gestão e Programação de Sistemas Informáticos (GPSI) em Por
 
 Tenho experiência prática adquirida em estágios na área de tecnologia e em projetos desenvolvidos durante o curso. Atualmente, meu foco é JavaScript, seguido por React e TypeScript, com o objetivo de desenvolver aplicações completas e bem estruturadas, da interface ao servidor.
 
-const carlos = {
-  funcao: "Desenvolvedor de Software em Formação",
-  formacao: "GPSI — Portugal",
-  focoAtual: ["JavaScript", "React", "TypeScript"],
-  interesses: [
-    "Desenvolvimento Completo de Aplicações",
-    "Desenvolvimento Web",
-    "Engenharia de Software",
-  ],
-  experiencia: ["Projetos do curso", "Estágios em tecnologia"],
-};
 
 Tecnologias
 
@@ -69,15 +58,3 @@ Tecnologias
   </tr>
 </table>
 
-<sub>* Estudando atualmente  ·  ** Próximos passos</sub>
-
-Atualmente Estudando
-
-> aprendizado_atual --ativo
-
-JavaScript   ████████▒▒   fortalecendo a base
-React        █████▒▒▒▒▒   aprendendo os conceitos principais
-TypeScript   ████▒▒▒▒▒▒   construindo os fundamentos
-
-
-</div>
