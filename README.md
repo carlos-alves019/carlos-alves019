@@ -2,7 +2,7 @@
 
 Sobre Mim
 
-Sou estudante de Gestão e Programação de Sistemas Informáticos (GPSI) em Portugal e estou construindo uma base sólida em desenvolvimento web e engenharia de software.
+Sou estudante de Gestão e Programação de Sistemas Informáticos (GPSI) em Portugal e estou a construir uma base sólida em desenvolvimento web e engenharia de software.
 
 Tenho experiência prática adquirida em estágios na área de tecnologia e em projetos desenvolvidos durante o curso. Atualmente, meu foco é JavaScript, seguido por React e TypeScript, com o objetivo de desenvolver aplicações completas e bem estruturadas, da interface ao servidor.
 
