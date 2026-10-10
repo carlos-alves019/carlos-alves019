@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#d7e8f5"/>
+    <stop offset="1" stop-color="#8fb4d5"/>
+  </linearGradient>
+  <linearGradient id="dune1" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#24466d"/>
+    <stop offset="1" stop-color="#07182f"/>
+  </linearGradient>
+  <linearGradient id="dune2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#102a4a"/>
+    <stop offset="1" stop-color="#426c98"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="320" fill="url(#sky)"/>
+<circle cx="980" cy="62" r="34" fill="#e8f2f8" opacity=".55"/>
+<path d="M0 205 C110 190 140 160 230 183 S380 229 490 194 S650 174 760 205 S970 226 1200 177 L1200 320 L0 320Z" fill="#6f94b8" opacity=".55"/>
+<path d="M0 230 C120 196 155 202 255 229 S420 254 540 215 S720 216 815 239 S1010 256 1200 220 L1200 320 L0 320Z" fill="url(#dune2)"/>
+<path d="M0 252 C140 215 185 250 305 263 S495 280 600 246 S760 240 875 269 S1050 279 1200 250 L1200 320 L0 320Z" fill="url(#dune1)"/>
+<path d="M640 320 C690 296 728 287 762 271 C800 252 830 251 875 245 C825 266 818 277 789 291 C764 304 750 311 735 320Z" fill="#d9edf8"/>
+<path d="M680 320 C728 300 749 294 779 279 C806 266 831 259 858 256 C822 273 805 287 776 301 C760 309 748 315 739 320Z" fill="#9bc5e4"/>
+<text x="600" y="111" text-anchor="middle" font-family="monospace" font-size="24" fill="#173451" opacity=".88">WELCOME TO CARLOS' GITHUB</text>
+<text x="600" y="145" text-anchor="middle" font-family="monospace" font-size="18" fill="#244e73">&lt;/&gt;</text>
+</svg>
