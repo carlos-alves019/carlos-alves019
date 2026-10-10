@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Welcome to Carlos's GitHub" width="100%"/>
+  <img src="banner.svg" alt="Welcome to Carlos's GitHub" width="100%"/>
 
   <br/>
 
@@ -46,7 +46,7 @@
 <table align="center">
   <tr>
     <td width="260" align="center" valign="middle">
-      <img src="assets/avatar.png" alt="Avatar pixel art do Carlos, sem óculos" width="220"/>
+      <img src="avatar.png" alt="Avatar pixel art do Carlos, sem óculos" width="220"/>
     </td>
     <td align="center" valign="middle">
       <p>
@@ -67,5 +67,5 @@
   <p>Estudante de GPSI na <b>OFICINA</b>, escola profissional.</p>
   <p><i>“Sempre à procura de aprender coisas novas e enfrentar novos desafios!”</i></p>
 
-  <img src="assets/water-mascot.svg" alt="Mascote pixel art azul original" width="150"/>
+  <img src="water-mascot.svg" alt="Mascote pixel art azul original" width="150"/>
 </div>
