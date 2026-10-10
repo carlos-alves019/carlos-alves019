@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Welcome to Carlos's GitHub" width="100%"/>
+  <img src="banner1.svg" alt="Welcome to Carlos's GitHub" width="100%"/>
 
   <br/>
 
