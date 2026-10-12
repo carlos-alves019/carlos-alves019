@@ -24,7 +24,6 @@ Sou o **Carlos Alves**, estudante do curso de **Gestão e Programação de Siste
 
 Sou dedicado, organizado e responsável. Valorizo o **trabalho em equipa**, a **resiliência**, a **liderança**, a **proatividade** e a **resolução de problemas**.
 
-> **O meu foco:** aprender continuamente, construir soluções úteis e evoluir como developer.
 
 ## ✦ Tecnologias
 
