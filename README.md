@@ -134,7 +134,7 @@ Formação em fundamentos de programação web, incluindo:
 
 [![Explorar Projetos](https://img.shields.io/badge/EXPLORAR%20OS%20MEUS%20PROJETOS-123C73?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlos-alves019?tab=repositories)
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=carlos-alves019&show_icons=true&hide_border=true&bg_color=050B14&title_color=49A5FF&text_color=E5EFFB&icon_color=49A5FF" height="165" alt="Estatísticas do GitHub" />
 
