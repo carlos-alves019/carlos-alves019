@@ -1,71 +1,80 @@
-<div align="center">
-  <img src="banner1.svg" alt="Welcome to Carlos's GitHub" width="100%"/>
+<img src="https://github.com/carlos-alves019/carlos-alves019/raw/main/banner.svg" alt="Carlos Alves - Estudante GPSI | Web Developer" width="100%" />
 
-  <br/>
+## 🎯 Sobre Mim
 
-  <a href="https://www.linkedin.com/in/carlos-alves-b4a069343/"><img src="https://img.shields.io/badge/LINKEDIN-0B2A5B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://linktr.ee/carlosalves_2026"><img src="https://img.shields.io/badge/LINKTREE-4A7AB0?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
-  <a href="https://github.com/carlos-alves019"><img src="https://img.shields.io/badge/GITHUB-0B2A5B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+```js
+const carlos = {
+  role: "Estudante de GPSI @ OFICINA",
+  location: "Portugal 🇵🇹",
 
-  <br/><br/>
+  building: [
+    "Aplicações Web completas",
+    "Projetos do curso GPSI"
+  ],
 
-  <h2><em>‹/› Tecnologias</em></h2>
+  learning: [
+    "JavaScript",
+    "React",
+    "TypeScript",
+    "Engenharia de Software"
+  ],
 
-  <img src="https://img.shields.io/badge/HTML5-0B2A5B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-4A7AB0?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-0B2A5B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-4A7AB0?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/REACT-0B2A5B?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-4A7AB0?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/NODE.JS-0B2A5B?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/EXPRESS-4A7AB0?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/PHP-0B2A5B?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/PYTHON-4A7AB0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FLASK-0B2A5B?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/POSTGRESQL-4A7AB0?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/C-0B2A5B?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-4A7AB0?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/WORDPRESS-0B2A5B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  tech: {
+    frontend: ["HTML", "CSS", "Bootstrap", "React"],
+    backend:  ["Node.js", "Express", "PHP", "Flask"],
+    database: ["PostgreSQL"]
+  }
+};
+```
 
-  <br/><br/>
+<p align="center">
+  <img src="https://github.com/carlos-alves019/carlos-alves019/raw/main/quote.svg" alt="Citação" width="60%" />
+</p>
 
-  <h2><em>‹/› Estatísticas</em></h2>
+## 📬 Fala Comigo
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-alves019&bg_color=081425&color=9DB8E0&line=4A7AB0&point=FFFFFF&area=true&area_color=4A7AB0&hide_border=true&title=Contribution%20Graph" alt="Gráfico de contribuições do Carlos Alves" width="100%"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-alves-b4a069343/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linktr.ee/carlosalves_2026"><img src="https://img.shields.io/badge/LINKTREE-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://github.com/carlos-alves019"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <!--
+  <a href="https://www.instagram.com/SEU_USER"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/users/SEU_ID"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  -->
+</p>
 
-  <br/><br/>
+## 🛠️ Tech Stack
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-alves019&show_icons=true&hide_border=true&bg_color=081425&title_color=9DB8E0&icon_color=4A7AB0&text_color=EAF2FC" height="165" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-alves019&layout=compact&hide_border=true&bg_color=081425&title_color=9DB8E0&text_color=EAF2FC" height="165" alt="Linguagens mais utilizadas"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,nodejs,express,php,py,flask,postgres,c,cpp,wordpress&perline=10" alt="Tech stack" />
+</p>
 
-  <br/><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+</p>
 
-  <h2><em>‹/› Sobre Mim</em></h2>
-</div>
+## 📊 Estatísticas do GitHub
 
-<table align="center">
-  <tr>
-    <td width="260" align="center" valign="middle">
-      <img src="avatar.png" alt="Avatar pixel art do Carlos, sem óculos" width="220"/>
-    </td>
-    <td align="center" valign="middle">
-      <p>
-        Olá! Chamo-me <b>Carlos Alves</b> e sou estudante de <b>Gestão e Programação de Sistemas Informáticos (GPSI)</b> em Portugal.
-        Estou a construir uma base sólida em desenvolvimento web e engenharia de software.
-      </p>
-      <p>
-        Tenho experiência prática de um <b>estágio de 140 horas</b> na área de tecnologia e de projetos desenvolvidos durante o curso.
-        Neste momento, o meu foco é <b>JavaScript</b>, seguido de <b>React</b> e <b>TypeScript</b>, com o objetivo de criar aplicações completas e bem estruturadas, da interface ao servidor.
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos-alves019&theme=tokyonight" alt="Detalhes do perfil" width="100%" />
+</p>
 
-<div align="center">
-  <h2><em>‹/› Hobbies &amp; Objetivos</em></h2>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlos-alves019&theme=tokyonight" alt="Linguagens por repositório" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlos-alves019&theme=tokyonight&utcOffset=0" alt="Commits por hora" width="49%" />
+</p>
 
-  <p>Estudante de GPSI na <b>OFICINA</b>, escola profissional.</p>
-  <p><i>“Sempre à procura de aprender coisas novas e enfrentar novos desafios!”</i></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlos-alves019&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlos-alves019&theme=tokyonight" alt="Linguagens por commit" width="49%" />
+</p>
 
-  <img src="water-mascot.svg" alt="Mascote pixel art azul original" width="150"/>
-</div>
+## 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlos-alves019&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=10&column=4&row=2" alt="Troféus do GitHub" />
+</p>
