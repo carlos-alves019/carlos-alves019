@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.png" alt="Carlos Alves — Software Engineering" width="100%" />
@@ -23,19 +24,27 @@ Sou o **Carlos Alves**, estudante do curso de **Gestão e Programação de Siste
 
 Sou dedicado, organizado e responsável. Valorizo o **trabalho em equipa**, a **resiliência**, a **liderança**, a **proatividade** e a **resolução de problemas**.
 
+> **O meu foco:** aprender continuamente, construir soluções úteis e evoluir como developer.
+
 ## ✦ Tecnologias
 
 <div align="center">
 
-**Linguagens, frameworks, bibliotecas e bases de dados**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,php,c,cpp,react,nodejs,flask,bootstrap,mysql,postgres&perline=7&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS, PHP, C, C++, React, Node.js, Flask, Bootstrap, MySQL e PostgreSQL" />
-
-<br/><br/>
-
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1F3A?style=for-the-badge&logo=javascript&logoColor=49A5FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=49A5FF)
+![Python](https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=49A5FF)
+![HTML5](https://img.shields.io/badge/HTML5-0B1F3A?style=for-the-badge&logo=html5&logoColor=49A5FF)
+![CSS3](https://img.shields.io/badge/CSS3-0B1F3A?style=for-the-badge&logo=css&logoColor=49A5FF)
+![PHP](https://img.shields.io/badge/PHP-0B1F3A?style=for-the-badge&logo=php&logoColor=49A5FF)
+![C](https://img.shields.io/badge/C-0B1F3A?style=for-the-badge&logo=c&logoColor=49A5FF)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1F3A?style=for-the-badge&logo=cplusplus&logoColor=49A5FF)
+![React](https://img.shields.io/badge/React-0B1F3A?style=for-the-badge&logo=react&logoColor=49A5FF)
+![Node.js](https://img.shields.io/badge/Node.js-0B1F3A?style=for-the-badge&logo=nodedotjs&logoColor=49A5FF)
+![Flask](https://img.shields.io/badge/Flask-0B1F3A?style=for-the-badge&logo=flask&logoColor=49A5FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1F3A?style=for-the-badge&logo=bootstrap&logoColor=49A5FF)
 ![SQL](https://img.shields.io/badge/SQL-0B1F3A?style=for-the-badge&logo=postgresql&logoColor=49A5FF)
+![MySQL](https://img.shields.io/badge/MySQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=49A5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1F3A?style=for-the-badge&logo=postgresql&logoColor=49A5FF)
 ![WordPress](https://img.shields.io/badge/WordPress-0B1F3A?style=for-the-badge&logo=wordpress&logoColor=49A5FF)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-0B1F3A?style=for-the-badge&logo=phpmyadmin&logoColor=49A5FF)
 
@@ -45,10 +54,14 @@ Sou dedicado, organizado e responsável. Valorizo o **trabalho em equipa**, a **
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian,supabase,blender,visualstudio&perline=8&theme=dark" alt="Git, GitHub, VS Code, Figma, Obsidian, Supabase, Blender e Visual Studio" />
-
-<br/><br/>
-
+![Git](https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=49A5FF)
+![GitHub](https://img.shields.io/badge/GitHub-0B1F3A?style=for-the-badge&logo=github&logoColor=49A5FF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0B1F3A?style=for-the-badge&logo=visualstudiocode&logoColor=49A5FF)
+![Figma](https://img.shields.io/badge/Figma-0B1F3A?style=for-the-badge&logo=figma&logoColor=49A5FF)
+![Obsidian](https://img.shields.io/badge/Obsidian-0B1F3A?style=for-the-badge&logo=obsidian&logoColor=49A5FF)
+![Supabase](https://img.shields.io/badge/Supabase-0B1F3A?style=for-the-badge&logo=supabase&logoColor=49A5FF)
+![Blender](https://img.shields.io/badge/Blender-0B1F3A?style=for-the-badge&logo=blender&logoColor=49A5FF)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0B1F3A?style=for-the-badge&logo=visualstudio&logoColor=49A5FF)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-0B1F3A?style=for-the-badge&logo=autodesk&logoColor=49A5FF)
 ![XAMPP](https://img.shields.io/badge/XAMPP-0B1F3A?style=for-the-badge&logo=xampp&logoColor=49A5FF)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0B1F3A?style=for-the-badge&logo=virtualbox&logoColor=49A5FF)
@@ -73,6 +86,17 @@ Desenvolvimento **frontend** com **HTML, CSS, JavaScript e Bootstrap**, particip
 
 **🎓 Discover — Rocketseat**  
 Fundamentos de programação web, **HTML, CSS, JavaScript, Git e GitHub**.
+
+[![Ver certificado Rocketseat](https://img.shields.io/badge/VER%20CERTIFICADO%20ROCKETSEAT-123C73?style=for-the-badge&logo=readthedocs&logoColor=white)](https://app.rocketseat.com.br/certificates/9b3179b9-6ff1-4e5c-acbd-6562637a1059)
+
+## ✦ Formação e atividades
+
+**OFICINA — Escola Profissional** · GPSI · 2024 – presente
+
+- Participação no concurso **À Velocidade do Sol**.
+- Participação no **BGreen — Ecological Film Festival**, com criação de um spot.
+- Criação e organização de um torneio de jogos na escola.
+- Participação em workshops de tecnologia.
 
 ## ✦ Idiomas
 
@@ -102,9 +126,9 @@ Fundamentos de programação web, **HTML, CSS, JavaScript, Git e GitHub**.
 
 <div align="center">
 
-### ✧ Vamos construir algo interessante?
+### ✧ Sempre a aprender e a evoluir
 
-**Aprender · Criar · Evoluir**
+**Estudante de GPSI · Desenvolvimento de software**
 
 [![LinkedIn](https://img.shields.io/badge/Entrar%20em%20contacto-123C73?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alves-b4a069343/)
 
