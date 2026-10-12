@@ -155,7 +155,7 @@ Formação em fundamentos de programação web, incluindo:
 </a>
 
 <a href="https://github.com/carlos-alves019?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-alves019&repo=HTML-CSS&bg_color=050B14&title_color=49A5FF&text_color=E5EFFB&icon_color=49A5FF&hide_border=true" alt="Repositório HTML e CSS" />
+<img src="https://github.com/carlos-alves019/API-HOTEL-PYTHON" alt="API EM PYTHON" />
 </a>
 
 <br/><br/>
