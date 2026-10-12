@@ -21,8 +21,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=carlos-alves019&label=VISITANTES%20DO%20PERFIL&color=123C73&style=for-the-badge" alt="Contador de visitantes" />
-
 </div>
 
 ---
