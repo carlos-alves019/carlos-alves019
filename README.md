@@ -113,22 +113,6 @@ Formação em fundamentos de programação web, incluindo:
 
 ---
 
-## &lt;/&gt; Formação e atividades
-
-### OFICINA — Escola Profissional
-
-**Curso Técnico de Gestão e Programação de Sistemas Informáticos (GPSI)**  
-2024 – Presente
-
-**Outras experiências:**
-
-- Participação no concurso **À Velocidade do Sol**.
-- Participação no **BGreen — Ecological Film Festival**, com criação de um spot.
-- Criação e organização de um torneio de jogos na escola.
-- Participação em workshops de tecnologia.
-
----
-
 ## &lt;/&gt; Idiomas
 
 | Competência | Português | Inglês |
