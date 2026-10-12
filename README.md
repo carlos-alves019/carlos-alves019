@@ -74,15 +74,6 @@ Desenvolvimento **frontend** com **HTML, CSS, JavaScript e Bootstrap**, particip
 **🎓 Discover — Rocketseat**  
 Fundamentos de programação web, **HTML, CSS, JavaScript, Git e GitHub**.
 
-## ✦ Formação e atividades
-
-**OFICINA — Escola Profissional** · GPSI · 2024 – presente
-
-- Participação no concurso **À Velocidade do Sol**.
-- Participação no **BGreen — Ecological Film Festival**, com criação de um spot.
-- Criação e organização de um torneio de jogos na escola.
-- Participação em workshops de tecnologia.
-
 ## ✦ Idiomas
 
 | Competência | Português | Inglês |
