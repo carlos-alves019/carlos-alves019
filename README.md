@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".banner-github.png" alt="Banner azul-escuro — Bem-vindo ao meu GitHub" width="100%">
+<img src="banner-github.png" alt="Banner azul-escuro — Bem-vindo ao meu GitHub" width="100%">
 
 <br>
 
